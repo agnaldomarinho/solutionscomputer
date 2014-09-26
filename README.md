@@ -1,6 +1,6 @@
-# [jgabriellima.com](http://jgabriellima.com)
+# [Site do Projeto](http://agnaldomarinho.github.io/solutionscomputer)
 
-Meu site pessoal onde abordo minha trajetória profissional, meus serviços e meus contatos para quem tiver interesse.
+Site do projeto onde pode obter, nossos serviços e nossos contatos para quem tiver interesse.
 
 ## Conteúdo Livre
 
